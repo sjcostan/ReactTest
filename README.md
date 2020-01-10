@@ -2,7 +2,7 @@
 
 Please clone this repo and checkout a new branch for your answer and submit it as a pull request
 
-Use this endpoints as reference for the CRUD implemented in (ReactJS or React Native)
+Use these endpoints as reference for the CRUD implemented in (ReactJS or React Native)
 
 (All) GET: https://intense-stream-35672.herokuapp.com/destinations
 	
